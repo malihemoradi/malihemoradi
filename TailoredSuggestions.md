@@ -156,3 +156,25 @@ more than 5 years of experience developing Java backends.
   crash free sessions to 99.5%.
 - Corrected, modified and upgraded software to make better performance.
 - Employed JUnit framework to perform unit tests.
+- Customized Mapbox map SDK to work with own, server and API.
+- Enhancing the applications by developing, refactoring, and optimizing their features.
+- Used specific code versioning tools to manage and implement changes to codes.
+- Worked with 3 teams from other projects and departments to make apps driven by
+  customer input.
+- Supported team members with one-on-one training and pair programming.
+- Used third-party libraries, custom libraries and APIs to develop new applications.
+- Successfully integrate push notifications into apps, bolstering user engagement.
+- Designed user interface that engaged multiple senses and produced immersive
+  experiences.
+- Focused on building MVP android application.
+- Called server APIs with Retrofit.
+- Debugged codes to find and fix application errors.
+- Developed insurance logic with Java.
+- Member of experienced team with more than 20 developer to maintain and improve
+  backend system.
+- Debugged closely and review code to locate and fix any errors.
+- Built APIs and data clients to consume APIs.
+- Performed unit testing, system testing and integration testing.
+
+
+
