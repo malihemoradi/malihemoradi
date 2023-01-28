@@ -203,4 +203,8 @@ to maximize development efficiency and produce innovative applications.
 - Devised RESTful services with Java Apache CXF and performed code reviews for peers.
 - Integrated multiple systems to move data between layers of software stack.
 - Managed tasks within Agile framework, cleared Sprinted tasks, and controlled JIRA workflows.
-Documented architecture and implementation for internal and external consumption.
+- Documented architecture and implementation for internal and external consumption.
+- Designed and built advanced game applications for Android platform, and collaborated with cross-functional teams to define, design, and launch new features.
+- Tested code for robustness; executed edge case, usability, and general reliability analysis.
+- Fixed bugs and improved application performance.
+- Partnered with artists, QA, and internal developers to maintain best practices.
