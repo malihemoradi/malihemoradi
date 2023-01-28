@@ -23,6 +23,13 @@ more than 5 years of experience developing Java backends.
 - Collaborated with designers on several projects to improve the overall look of apps before releasing them to users
 - Implemented in-app purchases using Google’s In-App Billing API for two different mobile apps
 - Developed a location-based service using GPS and Google Maps APIs for one app; it was downloaded over 100K times
+- Create tools to improve the development process, build process, and release process of all Android applications
+- Develop and execute unit tests for product components
+- Plan and manage the development schedule and process
+- Help set performance targets and optimize performance for mobile devices
+- Conducts in-House design reviews and technical meetings. Makes presentations before management and customers
+- Collaborate with other product development teams and use their feedback as a basis for improvements
+- Performs other duties as assigned by management
 
 ### junior
 - Developed Android applications using Java and the Android SDK.
