@@ -26,6 +26,13 @@ Solid understanding of full mobile and software development life cycles, UIX, we
 and Agile methodologies. Dedicated to continuously developing, implementing, and adopting new technologies
 to maximize development efficiency and produce innovative applications.
 ```
+__Sumary 4:__
+```
+Android Developer with 4+ years experience in the film and TV entertainment industry. Skilled at developing secure,
+reliable Android applications. Advanced technical skills include Android Jetpack, jQuery, MySQL, 
+Retrofit, and Xamarin. Recent demonstrated success in a leadership and training role. 
+Highly adaptable to new business challenges and market conditions.
+```
 
 
 ### Senior
