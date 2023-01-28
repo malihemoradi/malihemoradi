@@ -78,3 +78,18 @@ more than 5 years of experience developing Java backends.
 - Knowledge of software testing
 - Work closely with designers, product management, and other teams to create unique mobile apps and the tallest cat pyramids
 - Create frameworks and automation in the development process to maximize build efficiency and secure solid code
+- Respond to client needs for applications with an eye to the most feasible and effective
+  solutions.
+- Coordinate with team members to create client apps in a coordinated and timely
+  manner.
+- Rebuilt user interfaces that engage multiple senses and produce immersive
+  experiences.
+- Devised documentation for each app, detailing operation aspects, functions,
+  capabilities and features.
+- Incorporated offline storage, performance tuning and threading into apps for seamless
+  use.
+- Collaborated with 5 cross-functional teams to define and design new features.
+- Refactored major part of car rental Android app, improving app performance from 83%
+  crash free sessions to 99.5%.
+- Corrected, modified and upgraded software to make better performance.
+- Employed JUnit framework to perform unit tests.
