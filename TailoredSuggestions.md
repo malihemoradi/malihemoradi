@@ -71,3 +71,10 @@ more than 5 years of experience developing Java backends.
 - Build clean API's for video playback on mobile devices
 - Provide technical leadership in the design and development in developing Android based Software Development Kit (SDK)
 - Work closely with IT project managers, solutions architects and software developers
+- Provide state of the art expertise in Android development
+- 2-4 years success delivering software design and development projects using iOS/Android (Java) technologies
+- Demonstrated success in application design, inter-communication and coding
+- Participate in meetings with staff, team members, and other project stakeholders
+- Knowledge of software testing
+- Work closely with designers, product management, and other teams to create unique mobile apps and the tallest cat pyramids
+- Create frameworks and automation in the development process to maximize build efficiency and secure solid code
