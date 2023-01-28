@@ -30,6 +30,22 @@ more than 5 years of experience developing Java backends.
 - Conducts in-House design reviews and technical meetings. Makes presentations before management and customers
 - Collaborate with other product development teams and use their feedback as a basis for improvements
 - Performs other duties as assigned by management
+- Implement features for various applications in Kotlin, and C++.
+- Design multi module application for decreasing compile and build time, code reusability
+  and make better code for maintenance and debug.
+- Work closely with 4 product managers and 5 UI/UX specialists to write stable code
+  with core Android technologies.
+- Develop testable frameworks, promote test-driven development and participate in
+ code reviews by checking adherence to coding standards increase code stability by
+ 50%.
+- Lead 10 agile mobile developers in the design and development of fintech application.
+- Translate technical concepts and information into terms parties could easily
+ comprehend.
+- Tune codes to boost performance.
+- Manage tasks within the scrum framework, clear sprint tasks, and control JIRA
+ workflows improve team velocity by 30%.
+- Publish and launch Android application that maintains a 4.3 star rating in the Google
+- Play store with over 7 million downloads.
 
 ### junior
 - Developed Android applications using Java and the Android SDK.
