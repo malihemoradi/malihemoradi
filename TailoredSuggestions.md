@@ -94,6 +94,14 @@ more than 5 years of experience developing Java backends.
 - Corrected, modified and upgraded software to make better performance.
 - Employed JUnit framework to perform unit tests.
 
+- Designed user interface that engaged multiple senses and produced immersive
+- experiences.
+- Focused on building MVP android application.
+- Called server APIs with Retrofit.
+- Debugged codes to find and fix application errors.
+
+<!-- From enhancv -->
+
 - Managed team of 2 people
 - Worked with a team of 7 member and provided end to end solutions for clients
 - More than 10 custom apps created for peoples
