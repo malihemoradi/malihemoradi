@@ -93,3 +93,24 @@ more than 5 years of experience developing Java backends.
   crash free sessions to 99.5%.
 - Corrected, modified and upgraded software to make better performance.
 - Employed JUnit framework to perform unit tests.
+
+- Managed team of 2 people
+- Worked with a team of 7 member and provided end to end solutions for clients
+- More than 10 custom apps created for peoples
+- Worked with team of 3 members and provided end-to-end solutions
+- Over to 30 developed applications
+- Worked with the team of 5 members and provided end-to-end solutions
+- Professionally completed a project given period of 3 months
+- Designed and developed more than 10 mobile apps
+- Ensured that content met or exceeded business and client requirements 100% of the time
+- Worked in a team of 6 people
+- Worked with a team of 5 members and provided end-to-end solutions for clients
+- Improved user interfaces by updating menus to be more intuitive, increasing sales by 5%
+- Ensured content met or exceeded business and client requirements 100% of the time
+- Created 4 application to solve problems among the society
+- Worked with a team of 5 members and provided end-to-end solutions for clients
+- Design and developed more than 25+ apps live on play store
+- Worked on over 5 android application
+- Established a team of 4 people covering a key role in an early stage startup and leading them to design and develop best apps for play store
+- Worked on 3 major projects
+- (99% crash-free users, 180k monthly user active, 12k daily active users, monitored by Crashlytics)
