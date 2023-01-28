@@ -2,14 +2,30 @@
 
 ## Summary
 
-Seasoned Android developer with over 10 years of experience in developing mobile apps. Proven ability to lead teams and manage projects from start to finish. Expertise in working with various third-party libraries and SDKs.
+__Summary 1:__
+```
+Seasoned Android developer with over 10 years of experience in developing mobile apps.
+Proven ability to lead teams and manage projects from start to finish. Expertise in working
+with various third-party libraries and SDKs.
+```
 
-
-Creative, focused, motivated, and caring developer with more than 7 years of hands-on experience in Android development. I
-have experience in solution providing, architecture, team management and team support. Develop cutting-edge Android apps in
-industries such as fintech, tourism, threading, e-commerce, and transportation with over 7 million downloads. Additionally, I have
-more than 5 years of experience developing Java backends.
-
+__Summary 2:__
+```
+Creative, focused, motivated, and caring developer with more than 7 years of hands-on
+experience in Android development. Ihave experience in solution providing, architecture,
+team management and team support. Develop cutting-edge Android apps in
+industries such as fintech, tourism, threading, e-commerce, and transportation
+with over 7 million downloads. Additionally, I havemore than 5 years of experience
+developing Java backends.
+```
+__Summary 3:__
+```
+Talented Android Developer with over 10 years of software and web development experience
+in a broad range of industries, including sports entertainment, restaurant management, and mobile gaming.
+Solid understanding of full mobile and software development life cycles, UIX, web analytics, changing web standards, 
+and Agile methodologies. Dedicated to continuously developing, implementing, and adopting new technologies
+to maximize development efficiency and produce innovative applications.
+```
 
 
 ### Senior
