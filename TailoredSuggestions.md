@@ -63,3 +63,11 @@ more than 5 years of experience developing Java backends.
 - Implemented features such as offline data storage, background tasks (AIDL), push notifications etc., in a clean way following best practices of Android development.
 - Participated in design discussions regarding application functionality and ensured that designs are feasible from an engineering perspective.
 - Provided technical leadership by mentoring other developers on mobile technologies and best practices within the organization.
+
+- Analyze, optimize, and improve the code base
+- Design and implement end to end components related to video playback
+- Familiar with a scripting language
+- Strong knowledge of design patterns and how they apply to mobile applications
+- Build clean API's for video playback on mobile devices
+- Provide technical leadership in the design and development in developing Android based Software Development Kit (SDK)
+- Work closely with IT project managers, solutions architects and software developers
