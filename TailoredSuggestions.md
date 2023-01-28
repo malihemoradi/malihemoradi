@@ -122,3 +122,37 @@ more than 5 years of experience developing Java backends.
 - Established a team of 4 people covering a key role in an early stage startup and leading them to design and develop best apps for play store
 - Worked on 3 major projects
 - (99% crash-free users, 180k monthly user active, 12k daily active users, monitored by Crashlytics)
+
+
+<!--  -->
+- Implement features for various applications in Kotlin, and C++.
+- Design multi module application for decreasing compile and build time, code reusability
+  and make better code for maintenance and debug.
+- Work closely with 4 product managers and 5 UI/UX specialists to write stable code
+  with core Android technologies.
+- Develop testable frameworks, promote test-driven development and participate in
+  code reviews by checking adherence to coding standards increase code stability by
+  50%.
+- Lead 10 agile mobile developers in the design and development of fintech application.
+- Translate technical concepts and information into terms parties could easily
+  comprehend.
+- Tune codes to boost performance.
+- Manage tasks within the scrum framework, clear sprint tasks, and control JIRA
+  workflows improve team velocity by 30%.
+- Publish and launch Android application that maintains a 4.3 star rating in the Google
+- Play store with over 7 million downloads.
+- Respond to client needs for applications with an eye to the most feasible and effective
+  solutions.
+- Coordinate with team members to create client apps in a coordinated and timely
+  manner.
+- Rebuilt user interfaces that engage multiple senses and produce immersive
+  experiences.
+- Devised documentation for each app, detailing operation aspects, functions,
+  capabilities and features.
+- Incorporated offline storage, performance tuning and threading into apps for seamless
+  use.
+- Collaborated with 5 cross-functional teams to define and design new features.
+- Refactored major part of car rental Android app, improving app performance from 83%
+  crash free sessions to 99.5%.
+- Corrected, modified and upgraded software to make better performance.
+- Employed JUnit framework to perform unit tests.
