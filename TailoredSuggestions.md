@@ -193,4 +193,8 @@ to maximize development efficiency and produce innovative applications.
 - Performed unit testing, system testing and integration testing.
 
 
+<!--  -->
+- Work as part of team to define and implement solutions in alignment with Company Name Advanced Technology Group’s roadmap.
+- Design and implement services, applications, and frameworks for mobile platforms to change how fans interact with sports content; integrate solutions into innovative   core technologies and frameworks.
+- Develop software supporting next-generation digital technologies; create and prototype solutions and proof of concepts to demonstrate innovations’ viability.
 
