@@ -197,4 +197,10 @@ to maximize development efficiency and produce innovative applications.
 - Work as part of team to define and implement solutions in alignment with Company Name Advanced Technology Group’s roadmap.
 - Design and implement services, applications, and frameworks for mobile platforms to change how fans interact with sports content; integrate solutions into innovative   core technologies and frameworks.
 - Develop software supporting next-generation digital technologies; create and prototype solutions and proof of concepts to demonstrate innovations’ viability.
-
+- Developed new features for proprietary Android applications used on phones and tablets; worked with developers to develop top tier solutions for restaurant          customers.
+- Maintained long and short-range deliverables with product management team according to product roadmaps.
+- Wrote unit tests for mobile code and debugged critical application issues such as crashes, memory leaks, and concurrency problems.
+- Devised RESTful services with Java Apache CXF and performed code reviews for peers.
+- Integrated multiple systems to move data between layers of software stack.
+- Managed tasks within Agile framework, cleared Sprinted tasks, and controlled JIRA workflows.
+Documented architecture and implementation for internal and external consumption.
