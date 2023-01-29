@@ -215,3 +215,35 @@ Highly adaptable to new business challenges and market conditions.
 - Tested code for robustness; executed edge case, usability, and general reliability analysis.
 - Fixed bugs and improved application performance.
 - Partnered with artists, QA, and internal developers to maintain best practices.
+
+<!-- -->
+- Added new features such as online ordering using Stripe's official payment processing, benchmarked,
+profiled, and fixed bugs
+- Provided beacon’s NFC and Bluetooth detector in the app to collect stamps with a user-friendly
+interface
+- Refactored from MVP architecture to MVI to increase test capability
+- Developed and published a banking application and the most famous financial service application in Iran.
+- Managed a process re-engineering project to improve and consolidate end-to-end service processes
+- To promote colleagues' knowledge, held code review meetings. Management of complex projects using
+Agile methodology
+- Used the Unit test, Ui test, and tools like Spotless library and KtLint to enhance the quality of code
+- To hire new android developers, and taught 40+ students based on company strategies.
+- 5+ projects refactored into multi-module structures to improve build speed and performance.
+- Eliminated security flaws from the 3+ Android projects
+- Used Meta-programming methods to increase the speed of developments
+- Made custom geographic maps and offline routing to enhance the application user experience
+- Created 5+ applications with a large number of customers in the fields of online ordering, grocery
+delivery service, purchasing mobile phone credit, hospitality and loyalty apps.
+- Trained university students to learn Android programming basics and Git.
+- Developed a medical application using Java, RxJava, and Cloud synchronizing.
+- Find out app crashes by making a Java crash report library.
+- The first use of the Scrum methodology to manage a responsive form builder project for shop retailers.
+- Migrating from the service locator dependency injection to Dagger leads to better unit testing.
+- Used Android Reverse Engineering to build a native Android applications builder website.
+- Designed a New CMS with PHP, Profiling Mysql Database, and Jquery as a Full-stack role
+- Deployed the first sports Android application in Iran written in Java language using Eclipse IDE
+- Designed a custom CMS with PHP, Profiling huge ORM and ODM databases, Json, Jquery, Html, and
+CSS as a Full-stack role
+- Using Eclipse IDE, an Android application written with Java language to use as a notices portal.
+- Ran 2+ websites using PhpNuke, and WordPress frameworks
+
